@@ -1,0 +1,31 @@
+#title {
+	background-color: #ff4c68;
+}
+
+h1 {
+	font-family: 'Montserrat', sans-serif;
+	size: 3rem;
+	line-height: 1.5;
+	font-weight: 900;
+}
+
+.container-fluid {
+	padding: 3% 15%;
+}
+
+/*.download-btn {*/
+/*	padding: 2px;*/
+/*	width: 7rem;*/
+/*	border-radius: 6%;*/
+/*	height: 35px;*/
+
+/*}*/
+
+/*.btn-dark {*/
+/*	border-style: none;*/
+/*}*/
+
+/*.btn-light {*/
+/*	border-width: 1px;*/
+/*}*/
+
